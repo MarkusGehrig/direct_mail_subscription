@@ -1,6 +1,7 @@
 {
   "name": "directmailteam/direct-mail-subscription",
   "type": "typo3-cms-extension",
+  "version": "2.0.5",
   "description": "Adds a plugin for subscription to direct mail newsletters (collecting subscriptions in the tt_address table).",
   "keywords": [
     "TYPO3",
